@@ -1,0 +1,15 @@
+televisor
+guitarra
+botella
+bicicleta
+mesa
+maceta
+carpetateclado
+planta
+calculadora
+telefono
+sillon
+armario
+heladera
+gorro
+barbijo

@@ -1,0 +1,11 @@
+perro
+gato
+raton
+jirafa
+elefante
+tigre
+ballenavaca
+caballo
+cerdo
+gallina
+pollo
