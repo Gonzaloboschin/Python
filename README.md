@@ -1,2 +1,2 @@
 # Python
-Ejercicios y proyectos desarrollados en Python con Spyder
+Ejercicios y proyectos desarrollados en Python
